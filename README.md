@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Post a generated mission statetment into a room by typing ```!missionstatement``` in chat.
+
+## Links
+
+* [isis-plugin-missionstatement on RubyGems](https://rubygems.org/gems/isis-plugin-missionstatement)
